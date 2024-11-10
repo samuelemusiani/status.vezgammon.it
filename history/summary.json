@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vezgammon.it.ico",
     "slug": "vezgammont",
     "status": "up",
-    "uptime": "3.52%",
-    "uptimeDay": "3.52%",
-    "uptimeWeek": "3.52%",
-    "uptimeMonth": "3.52%",
-    "uptimeYear": "3.52%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 534,
     "timeDay": 534,
     "timeWeek": 534,
     "timeMonth": 534,
     "timeYear": 534,
-    "dailyMinutesDown": {
-      "2024-11-10": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gitlab",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.vezgammon.it.ico",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "2.74%",
-    "uptimeDay": "2.74%",
-    "uptimeWeek": "2.74%",
-    "uptimeMonth": "2.74%",
-    "uptimeYear": "2.74%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1379,
     "timeDay": 1379,
     "timeWeek": 1379,
     "timeMonth": 1379,
     "timeYear": 1379,
-    "dailyMinutesDown": {
-      "2024-11-10": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Taiga",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/taiga.vezgammon.it.ico",
     "slug": "taiga",
     "status": "up",
-    "uptime": "2.14%",
-    "uptimeDay": "2.14%",
-    "uptimeWeek": "2.14%",
-    "uptimeMonth": "2.14%",
-    "uptimeYear": "2.14%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1123,
     "timeDay": 1123,
     "timeWeek": 1123,
     "timeMonth": 1123,
     "timeYear": 1123,
-    "dailyMinutesDown": {
-      "2024-11-10": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mattermost",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mattermost.vezgammon.it.ico",
     "slug": "mattermost",
     "status": "up",
-    "uptime": "1.92%",
-    "uptimeDay": "1.92%",
-    "uptimeWeek": "1.92%",
-    "uptimeMonth": "1.92%",
-    "uptimeYear": "1.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 709,
     "timeDay": 709,
     "timeWeek": 709,
     "timeMonth": 709,
     "timeYear": 709,
-    "dailyMinutesDown": {
-      "2024-11-10": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jenkins",
@@ -85,11 +77,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.vezgammon.it.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "0.28%",
-    "uptimeDay": "0.28%",
-    "uptimeWeek": "0.28%",
-    "uptimeMonth": "0.28%",
-    "uptimeYear": "0.28%",
+    "uptime": "0.38%",
+    "uptimeDay": "0.38%",
+    "uptimeWeek": "0.38%",
+    "uptimeMonth": "0.38%",
+    "uptimeYear": "0.38%",
     "time": 712,
     "timeDay": 712,
     "timeWeek": 712,
@@ -105,18 +97,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.vezgammon.it.ico",
     "slug": "sonarqube",
     "status": "up",
-    "uptime": "1.01%",
-    "uptimeDay": "1.01%",
-    "uptimeWeek": "1.01%",
-    "uptimeMonth": "1.01%",
-    "uptimeYear": "1.01%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 551,
     "timeDay": 551,
     "timeWeek": 551,
     "timeMonth": 551,
     "timeYear": 551,
-    "dailyMinutesDown": {
-      "2024-11-10": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
