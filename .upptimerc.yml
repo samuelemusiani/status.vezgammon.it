@@ -4,17 +4,17 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Vezgammont
-    url: https://vezgammont.it
+    url: https://vezgammon.it
   - name: Gitlab
-    url: https://gitlab.vezgammont.it
+    url: https://gitlab.vezgammon.it
   - name: Taiga
-    url: https://taiga.vezgammont.it
+    url: https://taiga.vezgammon.it
   - name: Mattermost
-    url: https://mattermost.vezgammont.it
+    url: https://mattermost.vezgammon.it
   - name: Jenkins
-    url: https://jenkins.vezgammont.it
+    url: https://jenkins.vezgammon.it
   - name: Sonarqube
-    url: https://sonarqube.vezgammont.it
+    url: https://sonarqube.vezgammon.it
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,8 +23,8 @@ status-website:
   #baseUrl: /
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** of the [vezgammont](https://vezgammont.it) services"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/samuelemusiani/status.vezgammont.it).
+  introTitle: "**Upptime** of the [vezgammon](https://vezgammon.it) services"
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/samuelemusiani/status.vezgammon.it).
   navbar:
     - title: Status
       href: /
