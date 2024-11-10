@@ -13,6 +13,7 @@ sites:
     url: https://mattermost.vezgammon.it
   - name: Jenkins
     url: https://jenkins.vezgammon.it
+    code: 403
   - name: Sonarqube
     url: https://sonarqube.vezgammon.it
 
