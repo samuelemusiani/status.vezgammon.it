@@ -5,6 +5,8 @@ repo: status.vezgammon.it # The name of this repository
 sites:
   - name: Vezgammon
     url: https://vezgammon.it
+  - name: Vezgammon DEV
+    url: https://dev.vezgammon.it
   - name: Gitlab
     url: https://gitlab.vezgammon.it
   - name: Taiga
