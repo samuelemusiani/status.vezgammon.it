@@ -27,19 +27,19 @@
     "url": "https://dev.vezgammon.it",
     "icon": "https://icons.duckduckgo.com/ip3/dev.vezgammon.it.ico",
     "slug": "vezgammon-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1727,
-    "timeDay": 2398,
-    "timeWeek": 1727,
-    "timeMonth": 1727,
-    "timeYear": 1727,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
+    "time": 1612,
+    "timeDay": 1866,
+    "timeWeek": 1612,
+    "timeMonth": 1612,
+    "timeYear": 1612,
     "dailyMinutesDown": {
-      "2024-12-05": 0
+      "2024-12-05": 23
     }
   },
   {
