@@ -1,7 +1,7 @@
 url: https://dev.vezgammon.it
-status: up
-code: 200
-responseTime: 1020
-lastUpdated: 2024-12-17T11:36:41.963Z
+status: down
+code: 502
+responseTime: 4150
+lastUpdated: 2024-12-17T18:16:48.691Z
 startTime: 2024-12-02T12:55:45.683Z
 generator: Upptime <https://github.com/upptime/upptime>
