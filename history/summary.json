@@ -4,11 +4,11 @@
     "url": "https://vezgammon.it",
     "icon": "https://icons.duckduckgo.com/ip3/vezgammon.it.ico",
     "slug": "vezgammon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.64%",
     "time": 936,
     "timeDay": 843,
@@ -16,6 +16,7 @@
     "timeMonth": 675,
     "timeYear": 936,
     "dailyMinutesDown": {
+      "2025-02-05": 3,
       "2025-01-27": 98,
       "2024-12-22": 83,
       "2024-12-21": 7,
@@ -30,11 +31,11 @@
     "url": "https://dev.vezgammon.it",
     "icon": "https://icons.duckduckgo.com/ip3/dev.vezgammon.it.ico",
     "slug": "vezgammon-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.46%",
     "time": 1166,
     "timeDay": 962,
@@ -42,6 +43,7 @@
     "timeMonth": 859,
     "timeYear": 1166,
     "dailyMinutesDown": {
+      "2025-02-05": 2,
       "2025-01-21": 22,
       "2025-01-01": 32,
       "2024-12-26": 35,
@@ -59,10 +61,10 @@
     "url": "https://gitlab.vezgammon.it",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.vezgammon.it.ico",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1339,
@@ -70,25 +72,28 @@
     "timeWeek": 1265,
     "timeMonth": 1322,
     "timeYear": 1339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 2
+    }
   },
   {
     "name": "Taiga",
     "url": "https://taiga.vezgammon.it",
     "icon": "https://icons.duckduckgo.com/ip3/taiga.vezgammon.it.ico",
     "slug": "taiga",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 1235,
     "timeDay": 1065,
     "timeWeek": 1116,
     "timeMonth": 1163,
     "timeYear": 1235,
     "dailyMinutesDown": {
+      "2025-02-05": 1,
       "2024-11-23": 18
     }
   },
@@ -97,10 +102,10 @@
     "url": "https://mattermost.vezgammon.it",
     "icon": "https://icons.duckduckgo.com/ip3/mattermost.vezgammon.it.ico",
     "slug": "mattermost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 779,
@@ -108,16 +113,18 @@
     "timeWeek": 699,
     "timeMonth": 747,
     "timeYear": 779,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 1
+    }
   },
   {
     "name": "Jenkins",
     "url": "https://jenkins.vezgammon.it",
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.vezgammon.it.ico",
     "slug": "jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -127,6 +134,7 @@
     "timeMonth": 687,
     "timeYear": 735,
     "dailyMinutesDown": {
+      "2025-02-05": 0,
       "2024-11-10": 30
     }
   },
@@ -135,9 +143,9 @@
     "url": "https://sonarqube.vezgammon.it",
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.vezgammon.it.ico",
     "slug": "sonarqube",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -146,6 +154,8 @@
     "timeWeek": 671,
     "timeMonth": 690,
     "timeYear": 723,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   }
 ]
